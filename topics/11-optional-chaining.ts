@@ -23,4 +23,4 @@ const printChildren = (passenger: Passenger) => {
 };
 
 printChildren(passenger1);
-returnChildrenNumber(passenger1);
+//returnChildrenNumber(passenger1);
